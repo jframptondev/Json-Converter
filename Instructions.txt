@@ -1,0 +1,10 @@
+Joseph Frampton 03/02/2020
+This Program converts JSON files to CSV, follow he instructions below to use it.
+
+Instructions
+
+1) Place Json File inside the the folder.
+2) Click Run
+3) follow onscreen instructions
+4) wait for the program to finish.
+5) your new CSV file will appear in the same folder as the json file.
